@@ -1,0 +1,23 @@
+{
+  "name": "parcial_softlibre",
+  "version": "1.0.0",
+  "description": "Código Parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hestiam/parcial_SoftLibre.git"
+  },
+  "keywords": [
+    "Software",
+    "Libre"
+  ],
+  "author": "Carlos Bejarano",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Hestiam/parcial_SoftLibre/issues"
+  },
+  "homepage": "https://github.com/Hestiam/parcial_SoftLibre#readme"
+}
