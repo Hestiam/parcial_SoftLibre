@@ -5,7 +5,7 @@ script:
   - node index.js
 deploy:
  provider: releases
- api_key: $GITHUB_TOKEN
+ api_key: "28d61230cd742276a9160777675f83a35217d315"
  file: index.js
  skip_cleanup: true
  on:
