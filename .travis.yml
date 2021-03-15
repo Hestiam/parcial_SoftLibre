@@ -5,7 +5,6 @@ script:
   - node index.js
 deploy:
  provider: releases
- api_key: $TRAVIS_DEPLOY_TOKEN
  file: index.js
  skip_cleanup: true
  on:
