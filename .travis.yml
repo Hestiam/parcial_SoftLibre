@@ -5,7 +5,7 @@ script:
   - node index.js
 deploy:
  provider: releases
- token: 18c09bec24c2dc0912a7e48896d895641e09897e
+ token: github_token
  skip_cleanup: true
  on:
   tags: false
