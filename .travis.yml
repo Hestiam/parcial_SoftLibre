@@ -5,8 +5,8 @@ script:
   - node index.js
 deploy:
  provider: releases
- api_key: "28d61230cd742276a9160777675f83a35217d315"
- file: index.js
+ api_key: 
+  - secure: 18c09bec24c2dc0912a7e48896d895641e09897e
  skip_cleanup: true
  on:
   tags: false
