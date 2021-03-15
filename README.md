@@ -12,5 +12,5 @@ Proyecto realizado mediante Node.js
 
 Contiene package.json con configuración por defecto 
 
-Posee piezas de software libre de oreos repositorios
+Posee piezas de software libre de otros repositorios
 
